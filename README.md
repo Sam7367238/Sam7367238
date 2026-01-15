@@ -13,4 +13,4 @@ Hello, my name is Ayman, I am a back-end engineer in Saudi Arabia, and I have a 
 - Spring Framework
 
 ## 📖 How I Started
-This is an unusual story; I started coding when I was around 9 or 10 years old, I was making games on Roblox, I had a lot of fun, I wanted to know how all these assets from the Roblox development marketplace worked under the hood. I learned scripting and eventually became good at it, I was just making games for fun, I kind of miss those moments but unfortunately, I quit.
+I started coding when I was around 9 or 10 years old, I was making games on Roblox, I had a lot of fun, I wanted to know how all these assets from the Roblox development marketplace worked under the hood. I learned scripting and eventually, I became good at it, I was just making games for fun, it taught me so much about programming and problem solving. I kind of miss those moments but unfortunately, I quit.
