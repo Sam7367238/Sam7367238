@@ -2,10 +2,10 @@
 Hello, my name is Ayman, I am a back-end engineer in Saudi Arabia, and I have a passion for coding.
 
 ## 🛠️ Technologies
-Languages: PHP & Java
-Frameworks: Laravel
-Tools: HTML, MySQL, Git, And Gradle
-Concepts: REST API And Networking (DNS, HTTP, Etc)
+- Languages: PHP & Java
+- Frameworks: Laravel
+- Tools: HTML, MySQL, Git, And Gradle
+- Concepts: REST API And Networking (DNS, HTTP, Etc)
 
 ## 🤔 Interests
 - Software Architecture
