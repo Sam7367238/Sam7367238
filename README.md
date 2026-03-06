@@ -2,16 +2,16 @@
 Hello, my name is Ayman, I am a back-end engineer in Saudi Arabia, and I have a passion for coding.
 
 ## 🛠️ Technologies
-- Languages: PHP & Python
+- Languages: PHP & Java
 [![Why PHP](https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=for-the-badge&labelColor=18181b)](https://whyphp.dev)
-- Frameworks: Laravel
-- Tools: HTML, MySQL, Git
+- Frameworks: Laravel & Symfony
+- Tools: HTML, MySQL, Git, And Gradle
 - Concepts: REST API, Testing And Networking (Webhooks, DNS, HTTP, Etc)
 
 ## 🤔 Interests
 - Software Architecture
 - Game Development
-- C#
+- Spring Boot Framework
 
 ## 📖 How I Started
 I started coding when I was around 9 or 10 years old, I was making games on Roblox, I had a lot of fun, I wanted to know how all these assets from the Roblox development marketplace worked under the hood. I learned scripting and eventually, I became good at it, I was just making games for fun and it taught me so much about programming and problem solving. I kind of miss those moments but unfortunately, I quit.
