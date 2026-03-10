@@ -11,7 +11,12 @@ Hello, my name is Ayman, I am a back-end engineer in Saudi Arabia, and I have a 
 ## 🤔 Interests
 - Software Architecture
 - Game Development
-- Spring Boot Framework
+- Networking
+
+## ✅ Projects
+- [Symfony E-Commerce](https://github.com/Sam7367238/SymfonyECommerce)
+- [Blog Anarchy](https://github.com/Sam7367238/BloggingAnarchy)
+- [Laravel API](https://github.com/Sam7367238/Laravel-API)
 
 ## 📖 How I Started
 I started coding when I was around 9 or 10 years old, making games on Roblox. I had a lot of fun and became curious about how all the assets from the Roblox development marketplace worked under the hood. I started learning scripting and eventually got pretty good at it. At the time I was just making games for fun, but it ended up teaching me a lot about programming and problem-solving. I kind of miss those moments, but unfortunately I decided to quit.
