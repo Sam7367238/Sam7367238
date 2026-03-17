@@ -4,9 +4,10 @@ Hello, my name is Ayman, I am a back-end engineer in Saudi Arabia, and I have a 
 ## 🛠️ Technologies
 - Languages: PHP & Java
 [![Why PHP](https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=for-the-badge&labelColor=18181b)](https://whyphp.dev)
-- Frameworks: Laravel & Symfony
+- Frameworks: Laravel, Spring Boot & Symfony
 - Tools: HTML, MySQL, Git, And Gradle
 - Concepts: REST API, Testing And Networking (Webhooks, DNS, HTTP, Etc)
+Note: I'm currently learning Spring Data JPA & Spring Web
 
 ## 🤔 Interests
 - Software Architecture
