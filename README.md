@@ -8,7 +8,7 @@ Hello, my name is Ayman, I am a back-end engineer in Saudi Arabia, and I have a 
 - Tools: HTML, MySQL, Git, And Maven
 - Concepts: REST API, Testing And Networking (Webhooks, DNS, HTTP, Etc)
 <br>
-Note: I'm currently learning Spring Data JPA & Spring Web
+Note: I'm currently learning Spring Data JPA.
 
 ## 🤔 Interests
 - Software Architecture
