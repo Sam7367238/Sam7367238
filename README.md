@@ -5,7 +5,7 @@ Hello, my name is Ayman, I am a back-end engineer in Saudi Arabia, and I have a 
 - Languages: PHP & Java
 [![Why PHP](https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=for-the-badge&labelColor=18181b)](https://whyphp.dev)
 - Frameworks: Laravel & Symfony
-- Tools: HTML, MySQL, Git, JUnit, And Maven
+- Tools: HTML, MySQL, Git, JUnit, Doctrine, And Maven
 - Concepts: REST API, Testing And Networking (Webhooks, DNS, HTTP, Etc)
 <br>
 
