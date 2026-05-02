@@ -7,7 +7,6 @@ Hello, my name is Ayman, I am a back-end engineer in Saudi Arabia, and I have a 
 - Frameworks: Spring Boot, API Platform, And Symfony
 - Tools: HTML, MySQL, Git, JUnit, Doctrine, And Maven
 - Concepts: API, Testing And Networking
-<br>
 
 ## 🤔 Interests
 - Software Architecture
