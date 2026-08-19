@@ -9,7 +9,7 @@ Hello, my name is Ayman, I am a back-end engineer in Saudi Arabia, and I have a 
 - Concepts: API, Testing And Networking
 
 ## 🤔 Interests
-- Software Architecture
+- System Design
 - Game Development
 - Networking
 
