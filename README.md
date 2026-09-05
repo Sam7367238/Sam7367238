@@ -2,11 +2,10 @@
 Hello, my name is Ayman, I am a back-end engineer in Saudi Arabia, and I have a passion for coding.
 
 ## 🛠️ Technologies
-- Languages: PHP & Java
-[![Why PHP](https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=for-the-badge&labelColor=18181b)](https://whyphp.dev)
-- Frameworks: Spring Boot & Symfony
-- Tools: HTML, MySQL, Git, JUnit, Doctrine, Maven, And Spring Security
-- Concepts: API, Testing And Computer Networking
+- Languages: Java (primarily a Java developer)
+- Frameworks: Spring Boot
+- Tools: HTML, MySQL, Git, JUnit, Maven, And Spring Security
+- Concepts: API, Testing, Computer Networking, And Authentication
 
 ## 🤔 Interests
 - System Design
