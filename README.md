@@ -10,7 +10,7 @@ Hello, my name is Ayman, I am a back-end engineer in Saudi Arabia, and I have a 
 ## 🤔 Interests
 - System Design
 - Game Development
-- Networking
+- Computer Networking
 
 ## ✅ Projects
 - [Symfony E-Commerce](https://github.com/Sam7367238/SymfonyECommerce)
@@ -20,4 +20,4 @@ Hello, my name is Ayman, I am a back-end engineer in Saudi Arabia, and I have a 
 - [A Spring Boot Blog CRUD But Now I've Added Authentication](https://github.com/Sam7367238/SpringBootBlogApp)
 
 ## 📖 How I Started
-I started coding when I was around 9 or 10 years old, making games on Roblox. I had a lot of fun and became curious about how all the assets from the Roblox development marketplace worked under the hood. I started learning scripting and eventually got pretty good at it. At the time I was just making games for fun, but it ended up teaching me a lot about programming and problem-solving. I kind of miss those moments, but unfortunately I decided to quit. So I decided to learn other languages, I started with Java because of its object oriented paradigm, and it is also fun to use.
+I started coding when I was around 9 or 10 years old, making games on Roblox. I had a lot of fun and became curious about how all the assets from the Roblox development marketplace worked under the hood. I started learning scripting and eventually got pretty good at it. At the time I was just making games for fun, but it ended up teaching me a lot about programming and problem-solving. I kind of miss those moments, but unfortunately, I decided to quit. So I decided to learn other languages, I started with Java because of its object oriented paradigm, and it is also fun to use.
