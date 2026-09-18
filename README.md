@@ -2,7 +2,7 @@
 Hello, my name is Ayman, I am a back-end engineer in Saudi Arabia, and I have a passion for coding.
 
 ## 🛠️ Technologies
-- Languages: Java (primarily a Java developer)
+- Languages: Java
 - Frameworks: Spring Boot
 - Tools: HTML, MySQL, Git, JUnit, Maven, And Spring Security
 - Concepts: API, Testing, Computer Networking, And Authentication
