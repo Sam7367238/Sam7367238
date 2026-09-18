@@ -11,6 +11,7 @@ Hello, my name is Ayman, I am a back-end engineer in Saudi Arabia, and I have a 
 - System Design
 - Game Development
 - Computer Networking
+- Fintech
 
 ## ✅ Projects
 - [Symfony E-Commerce](https://github.com/Sam7367238/SymfonyECommerce)
